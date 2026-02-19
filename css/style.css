@@ -1,0 +1,28 @@
+nav{
+    text-align: right;
+    text-decoration: underline;
+    background-color: aqua;
+    color: deeppink;
+    height: 50px;
+ }       
+
+ footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: aqua;
+  color: deeppink;
+  text-align: center;  
+  height: auto;
+ }
+ 
+video{
+    width: 50%;
+    height: auto;
+}
+
+img{
+    width: 25%;
+    height: auto;
+}
